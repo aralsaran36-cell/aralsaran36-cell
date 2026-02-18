@@ -1,6 +1,7 @@
-<h1 align="center">Saravanan</h1>
+<h1 align="center">Hi 👋, I'm Saravanan</h1>
+
 <p align="center">
-  Aspiring AI / ML Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+%2F+ML+Developer;LLM+%7C+RAG+%7C+Chatbots;Python+%7C+FastAPI+%7C+OpenAI" />
 </p>
 
 ---
