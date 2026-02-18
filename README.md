@@ -1,5 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Saravanan&fontSize=70&fontAlignY=35&fontColor=ffffff&color=0:2193b0,100:6dd5ed" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&lines=Saravanan" />
+</p>
 
 >
 
