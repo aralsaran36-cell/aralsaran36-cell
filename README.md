@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+<!--## 🚀 Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,sql,java,js,html,css,git,github,linux)
+
 **aralsaran36-cell/aralsaran36-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
