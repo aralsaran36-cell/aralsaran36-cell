@@ -1,35 +1,33 @@
-<h1 align="center">Hi 👋, I'm Saravanan</h1>
-<h3 align="center">Aspiring AI / ML Developer</h3>
-
----
-
-## 👨‍💻 About Me
-
-Aspiring **AI/ML Developer** with hands-on experience building **chatbot applications** using  
-**Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.
-
-Skilled in **Python**, **API integration**, and **basic NLP concepts**.  
-Have worked with **OpenAI APIs** and **FastAPI** to design and deploy intelligent, scalable applications.
-
-Passionate about creating **practical AI solutions** that solve real-world business problems and improve user experience.
-
----
-
-## 🧠 Skills & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="50"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git,github" height="50"/>
+<h1 align="center">Saravanan</h1>
+<p align="center">
+  Aspiring AI / ML Developer
 </p>
 
 ---
+
+<p align="center">
+Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
+<b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
+Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
+Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
+</p>
+
+---
+
+<h3 align="center">🧠 Skills</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github" height="55"/>
+</p>
+
 
 ## 🚀 Areas of Interest
 - Machine Learning & Deep Learning  
