@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=🚀+Saravanan&fontSize=68&fontAlignY=40&fontColor=ffffff&color=0:fc466b,100:3f5efb" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=Saravanan&fontSize=75&fontAlignY=42&fontColor=ffffff&color=0:fc466b,100:3f5efb" />
+
 
 
 >
