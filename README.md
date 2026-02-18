@@ -1,10 +1,22 @@
-## https://github.com/zwayth#best-frameworks-and-libraries-for-machine-learning 👋
+
 ## 🧑‍💻 Languages I Know
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
+</p>
+
+## 🤖 Best Frameworks & Libraries for Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="50"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="50"/>
 </p>
 
 <!--## 🚀 Skills
