@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravanan&fontSize=78&fontAlignY=38&fontColor=f1c40f&color=0:2193b0,100:6dd5ed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravanan&fontSize=78&fontAlignY=38&fontColor=00c6ff&color=0:2193b0,100:6dd5ed" />
 
 >
 
