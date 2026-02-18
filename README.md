@@ -1,27 +1,48 @@
+<h1 align="center">Hi 👋, I'm Saravanan</h1>
+<h3 align="center">Aspiring AI / ML Developer</h3>
 
-## 🧑‍💻 Languages I Know
+---
+
+## 👨‍💻 About Me
+
+Aspiring **AI/ML Developer** with hands-on experience building **chatbot applications** using  
+**Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.
+
+Skilled in **Python**, **API integration**, and **basic NLP concepts**.  
+Have worked with **OpenAI APIs** and **FastAPI** to design and deploy intelligent, scalable applications.
+
+Passionate about creating **practical AI solutions** that solve real-world business problems and improve user experience.
+
+---
+
+## 🧠 Skills & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
-</p>
-
-## 🤖 Best Frameworks & Libraries for Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
   <img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="50"/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="50"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github" height="50"/>
 </p>
 
-<!--## 🚀 Skills
-https://github.com/zwayth#best-frameworks-and-libraries-for-machine-learning
-![My Skills](https://skillicons.dev/icons?i=python,sql,java,js,html,css,git,github,linux)
+---
+
+## 🚀 Areas of Interest
+- Machine Learning & Deep Learning  
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- AI-powered Web Applications  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: *(add your link here)*  
+- 💻 GitHub: https://github.com/aralsaran36-cell
+it,github,linux)
 
 **aralsaran36-cell/aralsaran36-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
