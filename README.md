@@ -80,7 +80,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
