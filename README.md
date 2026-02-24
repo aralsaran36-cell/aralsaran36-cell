@@ -48,6 +48,23 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
   <img src="https://img.shields.io/badge/🚀%20Tech%20Stack-AI%20%26%20ML-purple?style=for-the-badge" />
 </p>
 
+<img src="https://img.shields.io/badge/🚀%20Tech%20Stack-AI%20%26%20ML-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Languages%20%26%20Frameworks-0A66C2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Languages%20%7C%20Frameworks-black?style=for-the-badge" />
+
+## 💻 Skills
+<img src="https://img.shields.io/badge/Languages%20%26%20Frameworks-0A66C2?style=for-the-badge" />
+
+
+
+
+
+
+
+
+
 
 
 ## 🧠 Frameworks & Libraries
