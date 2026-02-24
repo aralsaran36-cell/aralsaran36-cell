@@ -7,11 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
-----------------------------------
-<h1 align="center">
-  I am <strong>Saravanan.</strong>
-</h1>
-------------------------------------
+
+ABOUT ME
 
 <p align="center">
 Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
