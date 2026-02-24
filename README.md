@@ -19,7 +19,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </p> 
 
 
-## 🚀 Languages
+## 🚀 LANGUAGES
 
 | Python | SQL |
 |--------|-----|
