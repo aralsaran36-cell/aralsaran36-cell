@@ -74,6 +74,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>|
 
 
+<img src="https://img.shields.io/badge/🛠 %20Tools & Platforms%20Stack--purple?style=for-the-badge" />
 ## 🛠 Tools & Platforms
 
 | Jupyter | Colab | VS Code |
