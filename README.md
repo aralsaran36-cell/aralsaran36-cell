@@ -83,11 +83,8 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>|
 
 
-<img src="https://img.shields.io/badge/🛠 %20Tools & Platforms%20Stack--purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Tools & Platforms-black?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/🛠 %20Tools & Platforms%20Stack-black?style=for-the-badge" />
+
 
 | Jupyter | Colab | VS Code |
 |:-------:|:------------:|:-------:|
@@ -98,7 +95,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br> |
 
 
-<h2>🎯 Areas of Interest</h2>
+<img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20Stack-black?style=for-the-badge" />
 
 <table>
 <tr>
