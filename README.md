@@ -1,41 +1,4 @@
 
-<div align="center">
-
-<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Purple Blob Behind Name -->
-  <ellipse cx="470" cy="110" rx="110" ry="80" fill="#a855f7" opacity="0.35"/>
-
-  <!-- "I am" (light text) -->
-  <text x="180" y="120"
-        fill="white"
-        font-size="48"
-        font-family="Segoe UI, sans-serif"
-        font-weight="300">
-    I am
-  </text>
-
-  <!-- Name (bold text) -->
-  <text x="280" y="120"
-        fill="white"
-        font-size="60"
-        font-family="Segoe UI, sans-serif"
-        font-weight="700">
-    Saravanan.
-  </text>
-
-</svg>
-
-</div>
-
-
-
-
-
-
-
-
-------------------
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravanan&fontSize=78&fontAlignY=38&fontColor=00c6ff&color=0:2193b0,100:6dd5ed" />
 
@@ -45,48 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
 ----------------------------------
-<div align="center">
-
-<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Purple Circle -->
-  <circle cx="380" cy="100" r="70" fill="#a855f7" opacity="0.35"/>
-
-  <!-- Text -->
-  <text x="50%" y="55%" 
-        text-anchor="middle" 
-        fill="white" 
-        font-size="48" 
-        font-family="Arial, Helvetica, sans-serif" 
-        font-weight="500"
-        dy=".3em">
-    I am Saravanan.
-  </text>
-
-</svg>
-
-</div>
------------------------------------
-<div align="center">
-
-<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Purple Blob -->
-  <ellipse cx="430" cy="110" rx="110" ry="85" fill="#a855f7" opacity="0.35"/>
-
-  <!-- Text -->
-  <text x="50%" y="55%" text-anchor="middle"
-        fill="white"
-        font-size="60"
-        font-family="Segoe UI, sans-serif"
-        font-weight="600"
-        dy=".3em">
-    I am Saravanan.
-  </text>
-
-</svg>
-
-</div>
+<h1 align="center">
+  I am <strong>Saravanan.</strong>
+</h1>
 ------------------------------------
 
 <p align="center">
