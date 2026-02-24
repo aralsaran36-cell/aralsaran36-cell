@@ -17,6 +17,29 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </p>
 
 ---
+<h2>🚀 Languages</h2>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>
+<b>SQL</b>
+</td>
+
+</tr>
+</table>
+
+--------
+
+
+
+
 ## 🚀 Languages
 
 | Python | C | C++ | JavaScript | PHP |
