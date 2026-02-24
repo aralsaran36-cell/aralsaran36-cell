@@ -7,28 +7,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
-
-<h1 align="center">🚀 AI/ML Developer</h1>
+---------------------------
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Building intelligent applications powered by <b>LLMs</b> & <b>RAG</b>
+  🎯 Aspiring <b>AI/ML Engineer</b> focused on real-world AI application development.<br><br>
+  
+  🤖 Hands-on experience building <b>LLM-powered Chatbots</b> using 
+  <b>RAG Architecture</b>.<br><br>
+  
+  🔧 Tech Stack: <b>Python | OpenAI API | FastAPI | NLP | REST APIs</b><br><br>
+  
+  📈 Interested in scalable AI systems, model deployment & API development.
 </p>
 
----
-
-### 🧠 What I Do
-- 🤖 Develop LLM-based chatbot systems
-- 🔍 Implement Retrieval-Augmented Generation (RAG)
-- ⚙️ Build scalable APIs using FastAPI
-- 🔗 Integrate OpenAI APIs into production-ready apps
-
----
-
-### 🛠 Tech Focus
-`Python` • `LLMs` • `OpenAI API` • `FastAPI` • `NLP` • `REST APIs`
---------
-
-
+---------------------
 ## 🚀 Languages
 
 | Python | SQL |
