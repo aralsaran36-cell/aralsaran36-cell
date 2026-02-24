@@ -92,33 +92,4 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aralsaran36@gmail.com)
 
 
--------------------
-# Hi 👋 I'm Aral Saran  
-🚀 Aspiring AI/ML Engineer | Passionate about AI, ML & LLM Systems  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=aralsaran36-cell&color=blue)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
-
 -->
