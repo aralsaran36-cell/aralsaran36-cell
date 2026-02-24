@@ -8,15 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
 
-ABOUT ME
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
-<b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
-Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
-Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
+  🚀 <b>Aspiring AI/ML Developer</b><br><br>
+  💡 Passionate about building intelligent systems using 
+  <b>LLMs</b> & <b>Retrieval-Augmented Generation (RAG)</b>.<br><br>
+  🧠 Strong in <b>Python</b>, <b>API Integration</b>, and <b>Natural Language Processing</b>.<br><br>
+  ⚡ Experienced in developing scalable AI apps using 
+  <b>OpenAI APIs</b> & <b>FastAPI</b>.
 </p>
-
 --------
 
 
