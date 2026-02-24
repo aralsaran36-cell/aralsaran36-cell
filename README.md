@@ -75,7 +75,6 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 
 <img src="https://img.shields.io/badge/🛠 %20Tools & Platforms%20Stack--purple?style=for-the-badge" />
-## 🛠 Tools & Platforms
 
 | Jupyter | Colab | VS Code |
 |:-------:|:------------:|:-------:|
