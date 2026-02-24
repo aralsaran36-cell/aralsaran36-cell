@@ -22,6 +22,8 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 ![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-b
+
 <h3 align="center">🧠 Skills</h3>
 
 <p align="center">
