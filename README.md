@@ -18,7 +18,7 @@ Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
 Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
 </p> 
 
-
+<h2>🔧 Tools & Technologies</h2>
 ## 🚀 LANGUAGES
 
 | Python | SQL |
@@ -42,6 +42,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
   <img src="https://img.shields.io/badge/Libraries-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frameworks-green?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀%20Tech%20Stack-AI%20%26%20ML-purple?style=for-the-badge" />
