@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
----------------------------
+
+
 ABOUT ME
 
 <p align="center">
@@ -16,7 +17,8 @@ Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applic
 Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
 Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
 </p> 
----------------------
+
+
 ## 🚀 Languages
 
 | Python | SQL |
