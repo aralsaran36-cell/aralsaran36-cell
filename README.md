@@ -11,12 +11,6 @@
 
 <img src="https://img.shields.io/badge/🎀%20About Me-black?style=for-the-badge" />
 
-Aspiring AI/ML Developer with hands-on experience building chatbot applications using Large Language Models and
-Retrieval-Augmented Generation. Skilled in Python, API integration, and basic NLP concepts. Have worked with OpenAI
-APIs and FastAPI to design and deploy intelligent applications. Interested in creating practical, scalable AI solutions that
-solve real business problems and improve user experience.
-
-
 
 Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
 <b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
