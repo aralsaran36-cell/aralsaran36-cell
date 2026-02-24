@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/🎀%20About Me-black?style=for-the-badge" />
 
 
+
+<p align="center">
 Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
 <b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
 Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
