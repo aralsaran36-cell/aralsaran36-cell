@@ -14,14 +14,14 @@
 -----------------------------------
 <div align="center">
 
-<h1 align="center">I am Saravanan.</h1>
-
-<p align="center">
-AI • Machine Learning • Deep Learning
-</p>
+<svg width="500" height="180" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="330" cy="90" r="70" fill="#8b5cf6" opacity="0.4"/>
+  <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="42" font-family="Arial" dy=".3em">
+    I am Saravanan.
+  </text>
+</svg>
 
 </div>
-
 ------------------------------------
 
 <p align="center">
