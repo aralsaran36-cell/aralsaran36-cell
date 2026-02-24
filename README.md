@@ -17,6 +17,13 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </p>
 
 ---
+## 🚀 Languages
+
+| Python | C | C++ | JavaScript | PHP |
+|--------|---|-----|------------|-----|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) |
+
+
 ## 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
