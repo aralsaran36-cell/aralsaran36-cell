@@ -78,13 +78,13 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </tr>
 </table>
 -------------------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight)
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/aralsaran36-cell/output/github-contribution-grid-snake.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=aralsaran36-cell&color=blue)
 
 ### 🌐 Connect with Me
 
@@ -93,21 +93,5 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 
 -------------------
-## 📫 Connect with Me
-- 💼 LinkedIn: *(https://www.linkedin.com/in/saravanan-s-08828037b/)*  
-- 💻 GitHub: https://github.com/aralsaran36-cell
-it,github,linux)
 
-**aralsaran36-cell/aralsaran36-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
