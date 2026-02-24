@@ -26,44 +26,15 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </h2>
 
 
-## 🚀 LANGUAGES
+
+<img src="https://img.shields.io/badge/🐍%20Languages-black?style=for-the-badge" />
 
 | Python | SQL |
 |--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages%20%26%20Frameworks-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-AI%20%7C%20ML%20%7C%20LLM-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages%20%7C%20Frameworks-black?style=for-the-badge" />
-</p>
-
-
-  <img src="https://img.shields.io/badge/Libraries-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frameworks-green?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Tech%20Stack-AI%20%26%20ML-purple?style=for-the-badge" />
-</p>
-
-<img src="https://img.shields.io/badge/🚀%20Tech%20Stack-AI%20%26%20ML-purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Languages%20%26%20Frameworks-0A66C2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Languages%20%7C%20Frameworks-black?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-0A66C2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/LANGUAGES%20%7C%20FRAMEWORKS-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️%20Libraries%20%7C%20Framework-black?style=for-the-badge" />
 
 
 | PyTorch | TensorFlow | NumPy | Pandas |
@@ -76,14 +47,13 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 
 
-<img src="https://img.shields.io/badge/Deployment-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀 %20Deployment-black?style=for-the-badge" />
 
 | Flask | FastAPI | Streamlit |
 |:-----:|:-------:|:---------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>|
 
 
-<img src="https://img.shields.io/badge/LANGUAGES%20%7C%20FRAMEWORKS-black?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Platforms%20Stack-black?style=for-the-badge" />
 
