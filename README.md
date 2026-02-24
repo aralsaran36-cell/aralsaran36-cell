@@ -48,7 +48,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 
 
-<img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Platforms%20Stack-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Technologies%20-black?style=for-the-badge" />
 
 
 | Jupyter | Colab | VS Code |
@@ -60,7 +60,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br> |
 
 
-<img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20Stack-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20-black?style=for-the-badge" />
 
 <table>
 <tr>
