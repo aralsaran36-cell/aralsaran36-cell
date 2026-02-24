@@ -10,17 +10,14 @@
 
 ## 👨‍💻 About Me
 
-<h2 align="center">🧠 ABOUT ME</h2>
+ABOUT ME
 
 <p align="center">
-Aspiring <b>AI/ML Engineer</b> with practical experience developing intelligent chatbot systems using 
-<b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.<br><br>
-
-Proficient in <b>Python</b>, <b>REST API integration</b>, and core <b>Natural Language Processing (NLP)</b> concepts.<br><br>
-
-Experienced in designing and deploying scalable AI applications using <b>OpenAI APIs</b> and <b>FastAPI</b>, 
-with a focus on performance and real-world impact.
-</p>
+Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
+<b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
+Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
+Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
+</p> 
 
 
 ## 🚀 Languages
