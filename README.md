@@ -68,7 +68,6 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 <h3 align="center">🧠 Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
   <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
   <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
