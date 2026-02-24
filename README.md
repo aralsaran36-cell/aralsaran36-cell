@@ -8,7 +8,23 @@
 ----------------------------------
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4B0082&height=200&section=header&text=I%20am%20Saravanan.&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Purple Circle -->
+  <circle cx="380" cy="100" r="70" fill="#a855f7" opacity="0.35"/>
+
+  <!-- Text -->
+  <text x="50%" y="55%" 
+        text-anchor="middle" 
+        fill="white" 
+        font-size="48" 
+        font-family="Arial, Helvetica, sans-serif" 
+        font-weight="500"
+        dy=".3em">
+    I am Saravanan.
+  </text>
+
+</svg>
 
 </div>
 -----------------------------------
