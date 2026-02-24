@@ -18,6 +18,10 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 ---
 
+## 🚀 Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
+
 <h3 align="center">🧠 Skills</h3>
 
 <p align="center">
