@@ -90,4 +90,4 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aralsaran36@gmail.com)
 
 
-──────────── ✦ ────────────
+──────────── ✦ ──────────────────────── ✦ ──────────────────────── ✦ ──────────────────────── ✦ ──────────────────────── ✦ ──────────────────────── ✦ ────────────
