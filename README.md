@@ -79,9 +79,9 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </tr>
 </table>
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight" />
-</p>
+</p>](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aralsaran36-cell)
 
 ![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
 
