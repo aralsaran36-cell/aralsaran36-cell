@@ -25,8 +25,8 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
-
-<h2 align="center">💻 Languages & Frameworks</h2>
+<h2 align="center">🚀 Tech Stack</h2>
+<p align="center"><b>Languages • Frameworks • Tools</b></p>
 ## 🧠 Frameworks & Libraries
 
 | PyTorch | TensorFlow | NumPy | Pandas |
