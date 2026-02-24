@@ -10,7 +10,6 @@
 
 ## 👨‍💻 About Me
 
-ABOUT ME
 
 <p align="center">
 Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
