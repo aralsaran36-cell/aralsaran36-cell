@@ -25,8 +25,31 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
-<h2 align="center">🚀 Tech Stack</h2>
-<p align="center"><b>Languages • Frameworks • Tools</b></p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages%20%26%20Frameworks-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-AI%20%7C%20ML%20%7C%20LLM-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages%20%7C%20Frameworks-black?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frameworks-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Tech%20Stack-AI%20%26%20ML-purple?style=for-the-badge" />
+</p>
+
+
+
 ## 🧠 Frameworks & Libraries
 
 | PyTorch | TensorFlow | NumPy | Pandas |
