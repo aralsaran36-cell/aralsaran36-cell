@@ -8,9 +8,7 @@
 ----------------------------------
 <div align="center">
 
-<h1>
-  I am <span style="color:#A855F7;">Saravanan</span>.
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4B0082&height=200&section=header&text=I%20am%20Saravanan.&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 -----------------------------------
