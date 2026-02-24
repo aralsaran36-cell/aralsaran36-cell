@@ -8,17 +8,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
 ---------------------------
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 Saravanan S</h1>
+<h3 align="center">Aspiring AI/ML Developer</h3>
 
 <p align="center">
-  🎯 Aspiring <b>AI/ML Engineer</b> focused on real-world AI application development.<br><br>
-  
-  🤖 Hands-on experience building <b>LLM-powered Chatbots</b> using 
-  <b>RAG Architecture</b>.<br><br>
-  
-  🔧 Tech Stack: <b>Python | OpenAI API | FastAPI | NLP | REST APIs</b><br><br>
-  
-  📈 Interested in scalable AI systems, model deployment & API development.
+Building intelligent applications using <b>LLMs</b> & <b>RAG Architecture</b>
+</p>
+
+---
+
+## 🧠 About Me
+
+<p>
+I'm an aspiring <b>AI/ML Developer</b> passionate about building real-world AI systems.
+I have hands-on experience developing <b>LLM-powered chatbot applications</b> using 
+<b>Retrieval-Augmented Generation (RAG)</b>.
+
+I specialize in <b>Python</b>, <b>API Integration</b>, and <b>NLP concepts</b>.
+Experienced in building scalable AI applications using <b>OpenAI APIs</b> and <b>FastAPI</b>.
 </p>
 
 ---------------------
