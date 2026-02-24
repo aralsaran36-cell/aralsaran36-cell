@@ -18,7 +18,7 @@ Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
 Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
 </p> 
 
-<h2>🔧 Tools & Technologies</h2>
+<h2>🔧 TOOLS & TECHNOLOGIES</h2>
 ## 🚀 LANGUAGES
 
 | Python | SQL |
