@@ -78,30 +78,21 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </tr>
 </table>
 -------------------
-## 🎯 Areas of Interest
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-E74C3C?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Model%20Deployment-34495E?style=for-the-badge)
-------------------------
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
+### 🌐 Connect with Me
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saravanan-s-08828037b/))
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aralsaran36@gmail.com)
 
 
-## 🚀 Areas of Interest
-- Machine Learning & Deep Learning  
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- AI-powered Web Applications  
-
----
-
+-------------------
 ## 📫 Connect with Me
 - 💼 LinkedIn: *(https://www.linkedin.com/in/saravanan-s-08828037b/)*  
 - 💻 GitHub: https://github.com/aralsaran36-cell
