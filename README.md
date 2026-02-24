@@ -56,6 +56,8 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-0A66C2?style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/LANGUAGES%20%7C%20FRAMEWORKS-black?style=for-the-badge" />
+
 
 | PyTorch | TensorFlow | NumPy | Pandas |
 |:-------:|:----------:|:-----:|:------:|
