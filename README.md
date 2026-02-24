@@ -60,36 +60,37 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 ----------
 
-<h2>🚀 Languages</h2>
+## 🧠 ML & Data Libraries
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-</td>
+| NumPy | Pandas | Scikit-Learn | XGBoost |
+|:-----:|:------:|:------------:|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/><br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/><br>Scikit-Learn | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" width="60" height="60"/><br>XGBoost |
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C
-</td>
+| Seaborn | Matplotlib |
+|:-------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="60" height="60"/><br>Seaborn | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/><br>Matplotlib |
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++
-</td>
+-------------
+## 🤖 Deep Learning
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-</td>
+| PyTorch | TensorFlow |
+|:-------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/><br>PyTorch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/><br>TensorFlow |
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br>PHP
-</td>
-</tr>
-</table>
+------------------
+## 📝 NLP
 
+| NLTK | Transformers |
+|:----:|:------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" width="60" height="60"/><br>NLTK | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/><br>Transformers |
 
+-------------------
+## 🚀 Deployment
 
-
-
+| Flask | FastAPI | Streamlit |
+|:-----:|:-------:|:---------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br>FastAPI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>Streamlit |
+----------------------
 
 ## 💻 Programming Languages
 <p>
