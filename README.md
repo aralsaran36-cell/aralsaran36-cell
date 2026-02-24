@@ -68,7 +68,6 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 
 <img src="https://img.shields.io/badge/Deployment-black?style=for-the-badge" />
-## 🚀 Deployment
 
 | Flask | FastAPI | Streamlit |
 |:-----:|:-------:|:---------:|
