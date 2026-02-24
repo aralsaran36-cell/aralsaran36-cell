@@ -17,6 +17,10 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </p>
 
 ---
+## 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
 ## 🚀 Skills
 
