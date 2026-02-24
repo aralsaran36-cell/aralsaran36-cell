@@ -54,7 +54,8 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 | Git | GitHub | MySQL WB |
 |:---:|:------:|:---------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br> |
-----------------
+
+
 <h2>🎯 Areas of Interest</h2>
 
 <table>
@@ -89,4 +90,4 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aralsaran36@gmail.com)
 
 
--->
+──────────── ✦ ────────────
