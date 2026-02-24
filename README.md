@@ -36,6 +36,29 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 
 
+## 🚀 Libraries & Frameworks
+
+![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-b
+
+<h3 align="center">🧠 Libraries & Frameworks</h3>
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+  <img src="https://skillicons.dev/icons?i=Matplotli" height="55"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+  <img src="https://skillicons.dev/icons?i=git,github" height="55"/>
+</p>
+
+----------------------------------------------------------------------
 ## 🚀 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
@@ -55,6 +78,15 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
   <img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
   <img src="https://skillicons.dev/icons?i=git,github" height="55"/>
 </p>
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 ## 🚀 Areas of Interest
