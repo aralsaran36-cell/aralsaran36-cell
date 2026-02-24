@@ -1,3 +1,42 @@
+
+<div align="center">
+
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Purple Blob Behind Name -->
+  <ellipse cx="470" cy="110" rx="110" ry="80" fill="#a855f7" opacity="0.35"/>
+
+  <!-- "I am" (light text) -->
+  <text x="180" y="120"
+        fill="white"
+        font-size="48"
+        font-family="Segoe UI, sans-serif"
+        font-weight="300">
+    I am
+  </text>
+
+  <!-- Name (bold text) -->
+  <text x="280" y="120"
+        fill="white"
+        font-size="60"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    Saravanan.
+  </text>
+
+</svg>
+
+</div>
+
+
+
+
+
+
+
+
+------------------
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravanan&fontSize=78&fontAlignY=38&fontColor=00c6ff&color=0:2193b0,100:6dd5ed" />
 
 >
