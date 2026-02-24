@@ -13,7 +13,6 @@
 
 
 
-<p align="center">
 Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
 <b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
 Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
