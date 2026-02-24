@@ -66,15 +66,15 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </tr>
 
 <tr>
-<td align="center" width="230">Natural Language Processing</td>
-<td align="center" width="230">Large Language Models (LLMs)</td>
-<td align="center" width="230">Retrieval-Augmented Generation (RAG)</td>
+<td align="center" width="230">NLP</td>
+<td align="center" width="230">LLM</td>
+<td align="center" width="230">RAG</td>
 </tr>
 
 <tr>
 <td align="center" width="230">Computer Vision</td>
 <td align="center" width="230">Model Deployment</td>
-<td align="center" width="230"></td>
+<td align="center" width="230">Data Science</td>
 </tr>
 </table>
 -------------------
