@@ -57,17 +57,6 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-0A66C2?style=for-the-badge" />
 
 
-
-
-
-
-
-
-
-
-
-## 🧠 Frameworks & Libraries
-
 | PyTorch | TensorFlow | NumPy | Pandas |
 |:-------:|:----------:|:-----:|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/><br>|
