@@ -82,7 +82,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight)
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/aralsaran36-cell/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aralsaran36-cell&color=blue)
 
