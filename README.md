@@ -56,7 +56,31 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |:---:|:------:|:---------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br> |
 ----------------
+<h2>🎯 Areas of Interest</h2>
 
+<table>
+<tr>
+<td align="center" width="180">Artificial Intelligence</td>
+<td align="center" width="180">Machine Learning</td>
+<td align="center" width="180">Deep Learning</td>
+</tr>
+
+<tr>
+<td align="center" width="180">NLP</td>
+<td align="center" width="180">Computer Vision</td>
+<td align="center" width="180">Model Deployment</td>
+</tr>
+</table>
+-------------------
+## 🎯 Areas of Interest
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-E74C3C?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Model%20Deployment-34495E?style=for-the-badge)
+------------------------
 
 
 
@@ -73,7 +97,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: *(add your link here)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/saravanan-s-08828037b/)*  
 - 💻 GitHub: https://github.com/aralsaran36-cell
 it,github,linux)
 
