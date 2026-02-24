@@ -22,6 +22,20 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
+## 📚 Libraries & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,sklearn,opencv" />
+</p>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+
+
 ## 🚀 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
