@@ -5,9 +5,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
 </p>
+----------------------------------
+<div align="center">
 
+<h1>
+  I am <span style="color:#A855F7;">Saravanan</span>.
+</h1>
 
----
+</div>
+-----------------------------------
+<div align="center">
+
+<h1 align="center">I am Saravanan.</h1>
+
+<p align="center">
+AI • Machine Learning • Deep Learning
+</p>
+
+</div>
+
+------------------------------------
 
 <p align="center">
 Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
