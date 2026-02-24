@@ -80,8 +80,9 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </table>
 -------------------
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight" />
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
 
