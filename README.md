@@ -14,11 +14,21 @@
 -----------------------------------
 <div align="center">
 
-<svg width="500" height="180" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="330" cy="90" r="70" fill="#8b5cf6" opacity="0.4"/>
-  <text x="50%" y="55%" text-anchor="middle" fill="white" font-size="42" font-family="Arial" dy=".3em">
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Purple Blob -->
+  <ellipse cx="430" cy="110" rx="110" ry="85" fill="#a855f7" opacity="0.35"/>
+
+  <!-- Text -->
+  <text x="50%" y="55%" text-anchor="middle"
+        fill="white"
+        font-size="60"
+        font-family="Segoe UI, sans-serif"
+        font-weight="600"
+        dy=".3em">
     I am Saravanan.
   </text>
+
 </svg>
 
 </div>
