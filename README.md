@@ -46,67 +46,16 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br>FastAPI | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>Streamlit |
 ----------------------
 
-## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+## 🛠 Tools & Platforms
 
-## 📚 Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,sklearn,opencv" />
-</p>
+| Jupyter | Google Colab | MySQL Workbench |
+|:-------:|:------------:|:---------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/><br>Jupyter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/><br>Colab | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>MySQL WB |
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-
-
-
-## 🚀 Libraries & Frameworks
-
-![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-b
-
-<h3 align="center">🧠 Libraries & Frameworks</h3>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
-  <img src="https://skillicons.dev/icons?i=Matplotli" height="55"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="55"/>
-
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
-  <img src="https://skillicons.dev/icons?i=git,github" height="55"/>
-</p>
-
-----------------------------------------------------------------------
-## 🚀 Skills
-
-![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,mysql,git,github)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-b
-
-<h3 align="center">🧠 Skills</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="55"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="55"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
-  <img src="https://skillicons.dev/icons?i=git,github" height="55"/>
-</p>
-----------------------------------------------------------------------
+| Excel | Power BI |
+|:-----:|:--------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="60" height="60"/><br>Excel | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="60" height="60"/><br>Power BI |
+----------------
 
 
 
