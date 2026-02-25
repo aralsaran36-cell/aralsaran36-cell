@@ -91,7 +91,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saravanan-s-08828037b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](www.linkedin.com/in/saravanan-s-08828037b))
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aralsaran36@gmail.com)
 
 🤍
