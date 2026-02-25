@@ -20,7 +20,6 @@ Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
 Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
 </p> 
 
-------------------------------
 
 <img src="https://img.shields.io/badge/🐍%20Languages-black?style=for-the-badge" />
 
@@ -28,7 +27,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
--------------------------
+
 
 <img src="https://img.shields.io/badge/⚙️%20Libraries%20%7C%20Framework-black?style=for-the-badge" />
 
@@ -41,7 +40,6 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |:------------:|:----------:|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/><br> |
 
---------------------------------------
 
 <img src="https://img.shields.io/badge/🚀 %20Deployment-black?style=for-the-badge" />
 
@@ -49,7 +47,6 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |:-----:|:-------:|:---------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>|
 
----------------------
 
 <img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Technologies%20-black?style=for-the-badge" />
 
@@ -62,7 +59,7 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 |:---:|:------:|:---------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br> |
 
--------------------------
+
 
 <img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20-black?style=for-the-badge" />
 
@@ -86,13 +83,13 @@ Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI appl
 </tr>
 </table>
 
------------------------
+
 
 ![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aralsaran36-cell&color=blue)
 
-------------------------
+
 
 ### 🌐 Connect with Me
 
