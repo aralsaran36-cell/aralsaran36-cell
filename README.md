@@ -14,12 +14,9 @@
 
 
 
-Aspiring <b>AI/ML Developer</b> with hands-on experience building chatbot applications using
-<b>Large Language Models (LLMs)</b> and <b>Retrieval-Augmented Generation (RAG)</b>.
-Skilled in <b>Python</b>, <b>API integration</b>, and basic <b>NLP</b> concepts.
-Experienced with <b>OpenAI APIs</b> and <b>FastAPI</b> to build scalable AI applications.
-</p> 
-
+<p>
+Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</b>, <b>NLP</b>, and <b>Generative AI</b>. Built end-to-end <b>machine learning</b> and <b>Retrieval-Augmented Generation (RAG)</b> chatbot applications using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b>. Focused on developing <b>scalable</b> and <b>real-world AI solutions</b>.
+</p>
 
 
 <img src="https://img.shields.io/badge/🐍%20Languages-black?style=for-the-badge" />
