@@ -15,7 +15,7 @@
 
 
 <p>
-Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</b>, <b>NLP</b>, and <b>Generative AI</b>. Built end-to-end <b>machine learning</b> and <b>Retrieval-Augmented Generation (RAG)</b> chatbot applications using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b>. Focused on developing <b>scalable</b> and <b>real-world AI solutions</b>.
+Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</b>, <b>LLM</b>, and <b>Generative AI</b>. Built end-to-end <b>machine learning</b> and <b>Retrieval-Augmented Generation (RAG)</b> chatbot applications using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b>. Focused on developing <b>scalable</b> and <b>real-world AI solutions</b>.
 </p>
 
 
