@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SARAVANAN%20S&fontSize=68&fontAlignY=38&fontColor=FFFFFF&color=0:0d001a,50:6C3EF4,100:0d001a&desc=AI%20%2F%20ML%20ENGINEER&descAlignY=58&descSize=18&descColor=c9b3ff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=SARAVANAN%20S&fontSize=68&fontAlignY=38&fontColor=FFFFFF&color=0:0d001a,50:6C3EF4,100:0d001a&desc=AI%20%2F%20ML%20ENGINEER&descAlignY=58&descSize=18&descColor=c9b3ff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Crafting+Intelligent+Systems;RAG+%7C+LLMs+%7C+Generative+AI;Python+%C2%B7+LlamaIndex+%C2%B7+FastAPI+%C2%B7+Groq" />
