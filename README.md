@@ -23,9 +23,9 @@
 <h3 align="center">🎀 &nbsp;ABOUT ME</h3>
 
 <p align="center">
-Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</b>, <b>LLMs</b>, and <b>Generative AI</b>.<br/>
-Built end-to-end <b>machine learning</b> and <b>Retrieval-Augmented Generation (RAG)</b> chatbot applications<br/>
-using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scalable, real-world AI solutions</b>.
+AI Engineer with hands-on experience in <b>LLMs</b>, <b>Generative AI</b>, and <b>Machine Learning</b>.<br/>
+Developed end-to-end <b>RAG chatbot applications</b> and <b>ML models</b> using <b>Python</b>, <b>FastAPI</b>, <b>LlamaIndex</b>, and <b>Ollama</b>.<br/>
+Skilled in building <b>scalable AI solutions</b> with experience in <b>data preprocessing</b>, <b>model evaluation</b>, and AI application deployment.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1a0033,50:A78BFA,100:1a0033" width="100%"/>
