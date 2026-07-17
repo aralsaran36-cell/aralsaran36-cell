@@ -32,9 +32,9 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-████████████████░░░░_80%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-██████████████░░░░░░_70%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/LLMs%20%2F%20RAG-████████████████░░░░_80%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" /><br/>
-<img src="https://img.shields.io/badge/SQL-████████████░░░░░░░░_60%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" />
+<img src="https://img.shields.io/badge/Machine%20Learning-██████████████████░░_90%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" /><br/>
+<img src="https://img.shields.io/badge/GenAI-██████████████░░░░░░_70%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" /><br/>
+<img src="https://img.shields.io/badge/SQL-████████████████░░░░_80%25-1a0033?style=for-the-badge&labelColor=1a0033&color=A78BFA" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1a0033,50:A78BFA,100:1a0033" width="100%"/>
@@ -47,13 +47,9 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <h3 align="center">⚙️ &nbsp;LIBRARIES &amp; FRAMEWORKS</h3>
 
-| PyTorch | TensorFlow | NumPy | Pandas |
-|:-------:|:----------:|:-----:|:------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> |
-
-| Scikit-Learn | Matplotlib | OpenCV |
-|:------------:|:----------:|:------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> |
+| PyTorch | TensorFlow | NumPy | Pandas | Scikit-Learn | Matplotlib | OpenCV |
+|:-------:|:----------:|:-----:|:------:|:------------:|:----------:|:------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> |
 
 <h3 align="center">🚀 &nbsp;DEPLOYMENT &amp; HOSTING</h3>
 
