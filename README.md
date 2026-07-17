@@ -1,5 +1,3 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravanan&fontSize=78&fontAlignY=38&fontColor=00c6ff&color=0:2193b0,100:6dd5ed" />
 
 >
@@ -44,6 +42,10 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 | Flask | FastAPI | Streamlit |
 |:-----:|:-------:|:---------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/><br>|
+
+| Docker | Render | Hugging Face |
+|:------:|:------:|:-------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/><br> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/><br> |
 
 
 <img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Technologies%20-black?style=for-the-badge" />
