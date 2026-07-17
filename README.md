@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Saravanan&fontSize=78&fontAlignY=38&fontColor=00c6ff&color=0:2193b0,100:6dd5ed" />
-
->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Saravanan%20S&fontSize=70&fontAlignY=35&fontColor=FFFFFF&color=0:0F2027,50:2C5364,100:0F2027&desc=Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20&descColor=8ecae6&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6DD5ED&center=true&vCenter=true&width=650&lines=Building+RAG+%26+LLM-powered+applications;Turning+data+into+intelligent+systems;Python+%7C+LlamaIndex+%7C+FastAPI+%7C+Groq" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aralsaran36-cell&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/aralsaran36-cell?label=FOLLOWERS&style=for-the-badge&color=0F2027" />
+</p>
 
 <img src="https://img.shields.io/badge/🎀%20About Me-black?style=for-the-badge" />
 
