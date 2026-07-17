@@ -49,27 +49,27 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/NumPy-1a0033?style=for-the-badge&logo=numpy&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Pandas-1a0033?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Scikit--Learn-1a0033?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Matplotlib-1a0033?style=for-the-badge&logo=matplotlib&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=numpy&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=matplotlib&logoColor=A78BFA" />
 </p>
 
 <h3 align="center">🚀 &nbsp;DEPLOYMENT &amp; HOSTING</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,docker&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Streamlit-1a0033?style=for-the-badge&logo=streamlit&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Render-1a0033?style=for-the-badge&logo=render&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-1a0033?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=streamlit&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=render&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=huggingface&logoColor=A78BFA" />
 </p>
 
 <h3 align="center">🛠️ &nbsp;TOOLS &amp; TECHNOLOGIES</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Google%20Colab-1a0033?style=for-the-badge&logo=googlecolab&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/MySQL%20WB-1a0033?style=for-the-badge&logo=mysql&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=googlecolab&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/-%20-1a0033?style=for-the-badge&logo=mysql&logoColor=A78BFA" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1a0033,50:A78BFA,100:1a0033" width="100%"/>
