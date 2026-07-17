@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/aralsaran36-cell?label=FOLLOWERS&style=for-the-badge&color=0F2027" />
 </p>
 
-<img src="https://img.shields.io/badge/🎀%20About Me-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎀%20About Me-0F2027?style=for-the-badge" />
 
 
 
@@ -18,7 +18,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 </p>
 
 
-<img src="https://img.shields.io/badge/🐍%20Languages-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍%20Languages-0F2027?style=for-the-badge" />
 
 | Python | SQL |
 |--------|-----|
@@ -26,7 +26,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 
 
 
-<img src="https://img.shields.io/badge/⚙️%20Libraries%20%7C%20Framework-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️%20Libraries%20%7C%20Framework-0F2027?style=for-the-badge" />
 
 
 | PyTorch | TensorFlow | NumPy | Pandas |
@@ -38,7 +38,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/><br> |
 
 
-<img src="https://img.shields.io/badge/🚀 %20Deployment-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀 %20Deployment%20%7C%20Hosting-0F2027?style=for-the-badge" />
 
 | Flask | FastAPI | Streamlit |
 |:-----:|:-------:|:---------:|
@@ -49,7 +49,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/><br> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/><br> |
 
 
-<img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Technologies%20-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Technologies%20-0F2027?style=for-the-badge" />
 
 
 | Jupyter | Colab | VS Code |
@@ -62,7 +62,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 
 
 
-<img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20-0F2027?style=for-the-badge" />
 
 <table>
 <tr>
@@ -88,13 +88,11 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 
 ![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aralsaran36-cell&color=blue)
-
 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saravanan-s-08828037b/))
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:aralsaran36@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=6DD5ED)](https://www.linkedin.com/in/saravanan-s-08828037b/)
+[![Gmail](https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=6DD5ED)](mailto:aralsaran36@gmail.com)
 
 🤍
