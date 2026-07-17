@@ -55,9 +55,13 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <div align="center">
 
-| PyTorch | TensorFlow | NumPy | Pandas | Scikit-Learn | Matplotlib | OpenCV |
-|:-------:|:----------:|:-----:|:------:|:------------:|:----------:|:------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> |
+| PyTorch | TensorFlow | NumPy |
+|:-------:|:----------:|:-----:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> |
+
+| Pandas | Scikit-Learn | Matplotlib | OpenCV |
+|:------:|:------------:|:----------:|:------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> |
 
 </div>
 
@@ -65,9 +69,13 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <div align="center">
 
-| Flask | FastAPI | Streamlit | Docker | Render | Hugging Face |
-|:-----:|:-------:|:---------:|:------:|:------:|:-------------:|
-| <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/> |
+| Flask | FastAPI | Streamlit |
+|:-----:|:-------:|:---------:|
+| <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/> |
+
+| Docker | Render | Hugging Face |
+|:------:|:------:|:-------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/> |
 
 </div>
 
@@ -75,9 +83,13 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <div align="center">
 
-| Jupyter | Colab | VS Code | Git | GitHub | MySQL WB |
-|:-------:|:-----:|:-------:|:---:|:------:|:--------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
+| Jupyter | Colab | VS Code |
+|:-------:|:-----:|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> |
+
+| Git | GitHub | MySQL WB |
+|:---:|:------:|:--------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
 </div>
 
@@ -103,7 +115,9 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 <img src="https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d001a,50:6C3EF4,100:0d001a&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d001a,50:6C3EF4,100:0d001a&section=header"/>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saravanan-s-08828037b/"><img src="https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
