@@ -7,7 +7,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aralsaran36-cell&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/aralsaran36-cell?label=FOLLOWERS&style=for-the-badge&color=0F2027" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2C5364?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <i>"Machines don't replace thinking — they scale it."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
 
 <img src="https://img.shields.io/badge/🎀%20About Me-0F2027?style=for-the-badge" />
 
@@ -17,6 +24,21 @@
 Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</b>, <b>LLMs</b>, and <b>Generative AI</b>. Built end-to-end <b>machine learning</b> and <b>Retrieval-Augmented Generation (RAG)</b> chatbot applications using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b>. Focused on developing <b>scalable</b> and <b>real-world AI solutions</b>.
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
+
+<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-0F2027?style=for-the-badge" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight&bg_color=0F2027&title_color=6DD5ED&icon_color=8ecae6&text_color=eceef2&border_color=2C5364&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aralsaran36-cell&theme=tokyonight&background=0F2027&stroke=2C5364&ring=6DD5ED&fire=6DD5ED&currStreakLabel=6DD5ED&border=2C5364" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight&bg_color=0F2027&title_color=6DD5ED&text_color=eceef2&border_color=2C5364&hide_border=false" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aralsaran36-cell&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
 
 <img src="https://img.shields.io/badge/🐍%20Languages-0F2027?style=for-the-badge" />
 
@@ -84,15 +106,17 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg" />
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/aralsaran36-cell/aralsaran36-cell/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F2027,50:2C5364,100:0F2027&section=header"/>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/saravanan-s-08828037b/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=6DD5ED" /></a>
+<a href="mailto:aralsaran36@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=6DD5ED" /></a>
+</p>
 
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=6DD5ED)](https://www.linkedin.com/in/saravanan-s-08828037b/)
-[![Gmail](https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=6DD5ED)](mailto:aralsaran36@gmail.com)
-
-🤍
+<p align="center">🤍</p>
