@@ -52,7 +52,7 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 <img src="https://img.shields.io/badge/NumPy-1a0033?style=for-the-badge&logo=numpy&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Pandas-1a0033?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Scikit--Learn-1a0033?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Matplotlib-1a0033?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Matplotlib-1a0033?style=for-the-badge&logo=matplotlib&logoColor=A78BFA" />
 </p>
 
 <h3 align="center">🚀 &nbsp;DEPLOYMENT &amp; HOSTING</h3>
@@ -60,7 +60,7 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,docker&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/Streamlit-1a0033?style=for-the-badge&logo=streamlit&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Render-1a0033?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Render-1a0033?style=for-the-badge&logo=render&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/🤗_Hugging_Face-1a0033?style=for-the-badge&logoColor=A78BFA" />
 </p>
 
