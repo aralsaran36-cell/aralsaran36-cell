@@ -41,35 +41,43 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <h3 align="center">🐍 &nbsp;LANGUAGES</h3>
 
+<div align="center">
+
 | Python | SQL |
 |:------:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
+</div>
+
 <h3 align="center">⚙️ &nbsp;LIBRARIES &amp; FRAMEWORKS</h3>
+
+<div align="center">
 
 | PyTorch | TensorFlow | NumPy | Pandas | Scikit-Learn | Matplotlib | OpenCV |
 |:-------:|:----------:|:-----:|:------:|:------------:|:----------:|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> |
 
+</div>
+
 <h3 align="center">🚀 &nbsp;DEPLOYMENT &amp; HOSTING</h3>
 
-| Flask | FastAPI | Streamlit |
-|:-----:|:-------:|:---------:|
-| <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/> |
+<div align="center">
 
-| Docker | Render | Hugging Face |
-|:------:|:------:|:-------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/> |
+| Flask | FastAPI | Streamlit | Docker | Render | Hugging Face |
+|:-----:|:-------:|:---------:|:------:|:------:|:-------------:|
+| <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/> |
+
+</div>
 
 <h3 align="center">🛠️ &nbsp;TOOLS &amp; TECHNOLOGIES</h3>
 
-| Jupyter | Colab | VS Code |
-|:-------:|:-----:|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> |
+<div align="center">
 
-| Git | GitHub | MySQL WB |
-|:---:|:------:|:--------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
+| Jupyter | Colab | VS Code | Git | GitHub | MySQL WB |
+|:-------:|:-----:|:-------:|:---:|:------:|:--------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1a0033,50:A78BFA,100:1a0033" width="100%"/>
 
