@@ -51,27 +51,29 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 </div>
 
-<h3 align="center">⚙️ &nbsp;LIBRARIES &amp; FRAMEWORKS</h3>
+<h3 align="center">⚙️ &nbsp;LIBRARIES</h3>
 
 <div align="center">
 
-| PyTorch | TensorFlow | NumPy |
-|:-------:|:----------:|:-----:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> |
+| NumPy | Pandas | Matplotlib | OpenCV | Scikit-Learn |
+|:-----:|:------:|:----------:|:------:|:------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> |
 
-| Pandas | Scikit-Learn | Matplotlib | OpenCV |
-|:------:|:------------:|:----------:|:------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/> |
+</div>
+
+<h3 align="center">🧩 &nbsp;FRAMEWORKS</h3>
+
+<div align="center">
+
+| PyTorch | TensorFlow | Flask | FastAPI |
+|:-------:|:----------:|:-----:|:-------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/> |
 
 </div>
 
 <h3 align="center">🚀 &nbsp;DEPLOYMENT &amp; HOSTING</h3>
 
 <div align="center">
-
-| Flask | FastAPI | Streamlit |
-|:-----:|:-------:|:---------:|
-| <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/> |
 
 | Docker | Render | Hugging Face |
 |:------:|:------:|:-------------:|
@@ -83,13 +85,9 @@ using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b> — focused on <b>scal
 
 <div align="center">
 
-| Jupyter | Colab | VS Code |
-|:-------:|:-----:|:-------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> |
-
-| Git | GitHub | MySQL WB |
-|:---:|:------:|:--------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
+| Jupyter | Colab | VS Code | Git | GitHub | MySQL WB | Streamlit |
+|:-------:|:-----:|:-------:|:---:|:------:|:--------:|:---------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> | <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="60" height="60"/> |
 
 </div>
 
