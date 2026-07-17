@@ -5,37 +5,41 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aralsaran36-cell&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/aralsaran36-cell?label=FOLLOWERS&style=for-the-badge&color=0F2027" />
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2C5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-Generative%20AI-0F2027?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/aralsaran36-cell?label=FOLLOWERS&style=for-the-badge&color=2C5364" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
+
 <p align="center">
-  <i>"Machines don't replace thinking — they scale it."</i>
+
+```yaml
+whoami:
+  name: "Saravanan S"
+  role: "Aspiring AI / ML Engineer"
+  currently_building: "RAG Chatbot — Python + LlamaIndex + FastAPI + Groq"
+  focus: ["LLMs", "RAG Systems", "Generative AI", "Model Deployment"]
+  status: "shipping something new, always"
+```
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
 
 <img src="https://img.shields.io/badge/🎀%20About Me-0F2027?style=for-the-badge" />
 
-
-
 <p>
 Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</b>, <b>LLMs</b>, and <b>Generative AI</b>. Built end-to-end <b>machine learning</b> and <b>Retrieval-Augmented Generation (RAG)</b> chatbot applications using <b>Python</b>, <b>LlamaIndex</b>, and <b>Ollama</b>. Focused on developing <b>scalable</b> and <b>real-world AI solutions</b>.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
-
-<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-0F2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📈%20Proficiency-0F2027?style=for-the-badge" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aralsaran36-cell&show_icons=true&theme=tokyonight&bg_color=0F2027&title_color=6DD5ED&icon_color=8ecae6&text_color=eceef2&border_color=2C5364&hide_border=false" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aralsaran36-cell&theme=tokyonight&background=0F2027&stroke=2C5364&ring=6DD5ED&fire=6DD5ED&currStreakLabel=6DD5ED&border=2C5364" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralsaran36-cell&layout=compact&theme=tokyonight&bg_color=0F2027&title_color=6DD5ED&text_color=eceef2&border_color=2C5364&hide_border=false" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aralsaran36-cell&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%" />
+<img src="https://img.shields.io/badge/Python-████████████████░░░░_80%25-0F2027?style=for-the-badge&logo=python&logoColor=6DD5ED" /><br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-██████████████░░░░░░_70%25-0F2027?style=for-the-badge&logoColor=6DD5ED" /><br/>
+<img src="https://img.shields.io/badge/LLMs%20%2F%20RAG-████████████████░░░░_80%25-0F2027?style=for-the-badge&logoColor=6DD5ED" /><br/>
+<img src="https://img.shields.io/badge/SQL-████████████░░░░░░░░_60%25-0F2027?style=for-the-badge&logo=mysql&logoColor=6DD5ED" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0F2027,100:6DD5ED" width="100%"/>
@@ -46,10 +50,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 |--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/> |
 
-
-
 <img src="https://img.shields.io/badge/⚙️%20Libraries%20%7C%20Framework-0F2027?style=for-the-badge" />
-
 
 | PyTorch | TensorFlow | NumPy | Pandas |
 |:-------:|:----------:|:-----:|:------:|
@@ -58,7 +59,6 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 | Scikit-Learn | Matplotlib | OpenCV |
 |:------------:|:----------:|:------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" height="60"/><br>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" height="60"/><br> |
-
 
 <img src="https://img.shields.io/badge/🚀 %20Deployment%20%7C%20Hosting-0F2027?style=for-the-badge" />
 
@@ -70,9 +70,7 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 |:------:|:------:|:-------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60"/><br> | <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="60" height="60"/><br> |
 
-
 <img src="https://img.shields.io/badge/🛠 %20Tools%20%7C%20Technologies%20-0F2027?style=for-the-badge" />
-
 
 | Jupyter | Colab | VS Code |
 |:-------:|:------------:|:-------:|
@@ -82,8 +80,6 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 |:---:|:------:|:---------------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br> |
 
-
-
 <img src="https://img.shields.io/badge/🎯  %20Areas of Interest%20-0F2027?style=for-the-badge" />
 
 <table>
@@ -92,13 +88,11 @@ Aspiring <b>AI/ML Engineer</b> with hands-on experience in <b>Machine Learning</
 <td align="center" width="230">Machine Learning</td>
 <td align="center" width="230">Deep Learning</td>
 </tr>
-
 <tr>
 <td align="center" width="230">NLP</td>
 <td align="center" width="230">LLM</td>
 <td align="center" width="230">RAG</td>
 </tr>
-
 <tr>
 <td align="center" width="230">Computer Vision</td>
 <td align="center" width="230">Model Deployment</td>
